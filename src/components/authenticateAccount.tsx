@@ -3,8 +3,7 @@ import { InputOTPPattern } from './inputOtp';
 function AuthAccount() {
     return (
         <div className="center-forms">
-            <div
-                className="bg-white dark:bg-slate-900 shadow-lg p-10 rounded-sm"
+            <div className="bg-white dark:bg-slate-900 shadow-lg p-10 rounded-sm"
             >
                 <form className="flex items-center gap-8 flex-col">
                     <div>
