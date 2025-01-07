@@ -32,7 +32,7 @@ function AuthAccount() {
                         </div>
                     </div>
                     <p
-                        className="text-sm text-gray-600 w-96 flex items-center gap-1 text-gray-600 dark:text-white"
+                        className="text-sm w-96 flex items-center gap-1 text-gray-600 dark:text-white"
                     >
                         <BiRevision className="text-lg cursor-pointer" />
                         <span>Solicitar um novo codigo de autenticação</span>
